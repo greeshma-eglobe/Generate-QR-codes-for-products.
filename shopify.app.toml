@@ -1,7 +1,7 @@
 # Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
 
 client_id = "1c7eaf525e79202c82c6eea5fafb4fd6"
-application_url = "https://unity-len-improve-delayed.trycloudflare.com"
+application_url = "https://compressed-tenant-facial-technologies.trycloudflare.com"
 embedded = true
 name = "QRCode"
 handle = "qrcode-264"
@@ -27,9 +27,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://unity-len-improve-delayed.trycloudflare.com/auth/callback",
-  "https://unity-len-improve-delayed.trycloudflare.com/auth/shopify/callback",
-  "https://unity-len-improve-delayed.trycloudflare.com/api/auth/callback"
+  "https://compressed-tenant-facial-technologies.trycloudflare.com/auth/callback",
+  "https://compressed-tenant-facial-technologies.trycloudflare.com/auth/shopify/callback",
+  "https://compressed-tenant-facial-technologies.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]
